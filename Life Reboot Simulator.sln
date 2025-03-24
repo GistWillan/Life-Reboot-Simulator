@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Life Reboot Simulator", "Life Reboot Simulator.csproj", "{8263A29C-9EE2-406C-B044-08C111385013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8263A29C-9EE2-406C-B044-08C111385013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8263A29C-9EE2-406C-B044-08C111385013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8263A29C-9EE2-406C-B044-08C111385013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8263A29C-9EE2-406C-B044-08C111385013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BCA8B9F-1061-46E5-A8EE-3B4F7DE49DF6}
+	EndGlobalSection
+EndGlobal
